@@ -16,6 +16,10 @@ Academic coursework by **Preet Gandhi**, BML Munjal University.
 
 These documents are academic coursework, not peer-reviewed publications or preprints. Referenced research and third-party material remain attributed within the PDFs.
 
+### Authorship & AI assistance
+
+I researched the topic and wrote the original term paper myself. I then used AI tools to review and audit the draft and refine its language, without changing its intended meaning. The accompanying report and presentation were generated with AI from that term paper.
+
 ## Publications & preprints
 
 None listed yet.
